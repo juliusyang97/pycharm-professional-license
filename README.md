@@ -1,1 +1,1 @@
-# pycharm-license
+# pycharm-professional-license
