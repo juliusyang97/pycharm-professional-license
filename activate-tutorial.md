@@ -1,3 +1,5 @@
+# 下面的方法好像失效了，使用 插件自动更新试用期的方式吧，，，网上自己搜一下怎么搞，很简单
+
 ```
 PyCharm 2021.3 (Professional Edition)
 Build #PY-213.5744.248, built on November 30, 2021
